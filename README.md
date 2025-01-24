@@ -1,22 +1,23 @@
 # Frontend Mentor - Clipboard landing page solution
 
-This is a solution to the [Clipboard landing page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/clipboard-landing-page-5cc9bccd6c4c91111378ecb9). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+![Design preview for Clipboard landing page coding challenge](design/desktop-preview.jpg)
+
+## Welcome! 👋
+
+Thanks for checking out my solution of Project tracking intro component front-end coding challenge from Frontend Mentor.<br>
+[Frontend Mentor](https://www.frontendmentor.io) challenges improve coding skills by building realistic projects.
 
 ## Table of contents
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -26,6 +27,8 @@ Users should be able to:
 
 - View the optimal layout for the site depending on their device's screen size
 - See hover states for all interactive elements on the page
+
+I do not have access to the Figma sketch so the design is not pixel perfect.
 
 ### Links
 
@@ -40,10 +43,22 @@ Users should be able to:
 - CSS custom properties
 - Flexbox
 - CSS Grid
-- Disctop-first workflow
+- Desktop-first workflow
 
+You will find all the required assets in the `/design` folder. The assets are already optimized.<br>
+There is also a `style-guide.md` file containing the information you'll need, such as color palette and fonts.
 
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
+### Useful resources
 
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
+- [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/CSS/)
 
+## Author
+
+- Frontend Mentor - [@ilham-bouk](https://www.frontendmentor.io/profile/ilham-bouk)
+- LinkedIn - [Ilham Bouktir](https://www.linkedin.com/in/ilham-bouktir-0b266b31b)
+
+## Acknowledgments
+
+A big thank you to anyone providing feedback on [my solution](). It definitely helps to find new ways to code and find easier solutions!
+
+**Happy coding!** ☺️🚀
